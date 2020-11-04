@@ -1,0 +1,79 @@
+.header {
+	padding: 10px 0;
+	justify-content: center;
+	margin: auto;
+	max-width: 1300px;
+	display: flex;
+	justify-content: space-between;
+}
+.header__logo {
+	display: flex;
+	margin-right: 10px;
+	justify-content: center;
+	align-items: center;
+}
+.header__logo > img {
+	object-fit: contain;
+	width: 100px;
+}
+.header__center {
+	display: flex;
+	align-items: center;
+}
+.header__right {
+	justify-content: space-between;
+	display: flex;
+	align-items: center;
+	margin: 0 20px;
+}
+li {
+	list-style: none;
+}
+
+li > a {
+	text-decoration: none;
+}
+.headerRight__login,
+.headerRight__help,
+.headerRight__cart {
+	cursor: pointer;
+	align-items: center;
+	display: flex;
+	padding: 0 15px;
+	justify-content: space-between;
+}
+.header__center {
+	justify-content: center;
+	flex: 0.9;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.serchIcon {
+	margin-right: -30px;
+	position: relative;
+	font-size: 30px;
+}
+.input__searches {
+	padding: 10px 30px;
+	width: 100%;
+}
+.headerRight__login {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 6px;
+}
+.login {
+	padding: 0 15px;
+}
+.cart {
+	padding-right: 8px;
+}
+.search__button {
+	margin-left: 10px !important;
+	color: white !important;
+	background-color: #f39c12 !important;
+	text-transform: inherit !important;
+	width: 100px !important;
+	height: auto !important;
+}
