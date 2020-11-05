@@ -172,6 +172,51 @@ function HomeProduct() {
 						<Button className="shopButton">Shop</Button>
 					</div>
 				</div>
+				<div className="productCard">
+					<img
+						src="http://pngimg.com/uploads/vans/vans_PNG22.png"
+						alt=""
+					/>
+					<div className="product__details">
+						<h5>Vans</h5>
+						<span>Ksh 200</span>
+						<div className="price__drop">
+							<del>100</del>
+							<span>-25%</span>
+						</div>
+						<Button className="shopButton">Shop</Button>
+					</div>
+				</div>
+				<div className="productCard">
+					<img
+						src="http://pngimg.com/uploads/vans/vans_PNG22.png"
+						alt=""
+					/>
+					<div className="product__details">
+						<h5>Vans</h5>
+						<span>Ksh 200</span>
+						<div className="price__drop">
+							<del>100</del>
+							<span>-25%</span>
+						</div>
+						<Button className="shopButton">Shop</Button>
+					</div>
+				</div>
+				<div className="productCard">
+					<img
+						src="http://pngimg.com/uploads/vans/vans_PNG22.png"
+						alt=""
+					/>
+					<div className="product__details">
+						<h5>Vans</h5>
+						<span>Ksh 200</span>
+						<div className="price__drop">
+							<del>100</del>
+							<span>-25%</span>
+						</div>
+						<Button className="shopButton">Shop</Button>
+					</div>
+				</div>
 			</div>
 		</div>
 	);

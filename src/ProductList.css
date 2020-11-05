@@ -1,0 +1,35 @@
+.productList {
+	max-width: 1300px;
+	margin: auto;
+}
+.product {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	justify-content: center;
+	align-items: center;
+	grid-gap: 10px;
+	flex: wrap;
+}
+.product > li {
+	height: 250px;
+}
+.productCard {
+	max-width: 250px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.productCard > a > img {
+	width: 100%;
+	height: 100px;
+	object-fit: contain;
+}
+.product__price {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.product__price > div,
+Button {
+	text-align: center !important;
+}
