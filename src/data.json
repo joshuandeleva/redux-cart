@@ -1,0 +1,108 @@
+{
+	"products": [
+		{
+			"_id": "vans1",
+			"title": "Vans Lace",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG19.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "M"]
+		},
+		{
+			"_id": "vans2",
+			"title": "Vans Oldskool",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG19.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "L"]
+		},
+		{
+			"_id": "vans3",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG19.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "F"]
+		},
+		{
+			"_id": "vans8",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG8.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "L"]
+		},
+		{
+			"_id": "vans9",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG9.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "SM"]
+		},
+		{
+			"_id": "vans7",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG7.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "L"]
+		},
+		{
+			"_id": "vans31",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG3.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "L"]
+		},
+		{
+			"_id": "vans5",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG5.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "F"]
+		},
+		{
+			"_id": "vans6",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG6.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "L"]
+		},
+		{
+			"_id": "vans10",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG10.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "F", "SM", "M"]
+		},
+		{
+			"_id": "vans15",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG15.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "F", "SM", "M"]
+		},
+		{
+			"_id": "vans22",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG22.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "F", "SM", "M"]
+		},
+		{
+			"_id": "vans21",
+			"title": "Vans high",
+			"image": "http://pngimg.com/uploads/vans/vans_PNG21.png",
+			"description": "is an American manufacturer of skateboarding shoes and related apparel, started in Anaheim, California, and owned by VF Corporation",
+			"price": "20",
+			"availableSizes": ["XL", "XXL", "F", "SM", "M"]
+		}
+	]
+}
