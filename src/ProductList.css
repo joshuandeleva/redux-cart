@@ -33,3 +33,11 @@
 Button {
 	text-align: center !important;
 }
+.addToCart {
+	flex: 0.7;
+	background-color: #f39c12 !important;
+	text-transform: inherit !important;
+}
+.addToCart:hover {
+	color: white !important;
+}

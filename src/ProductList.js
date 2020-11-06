@@ -2,6 +2,7 @@ import React from "react";
 import "./ProductList.css";
 import { Component } from "react";
 import { Button } from "@material-ui/core";
+import formatCurrency from "./util";
 export default class ProductList extends Component {
 	render() {
 		return (
@@ -12,13 +13,11 @@ export default class ProductList extends Component {
 							<a href={"#" + product._id}>
 								<img src={product.image} alt={product.title} />
 								<p>{product.title}</p>
-                            </a>
-                            <div className="product__price">
-                                <div>
-                                    {product.price}
-                                </div>
-                                <Button>Add to Cart</Button>
-                            </div>
+							</a>
+							<div className="product__price">
+								<div>{formatCurrency(product.price)}</div>
+								<Button className="addToCart">Add to Cart</Button>
+							</div>
 						</li>
 					))}
 				</ul>
