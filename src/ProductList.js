@@ -2,7 +2,7 @@ import React from "react";
 import "./ProductList.css";
 import { Component } from "react";
 import { Button } from "@material-ui/core";
-import formatCurrency from "./util";
+import formatCurrency from "./utils";
 export default class ProductList extends Component {
 	render() {
 		return (
